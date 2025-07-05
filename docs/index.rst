@@ -11,7 +11,7 @@ Learn how to log into your Acorn TV account, manage your settings, and fix commo
    :alt: Acorn TV Login Account
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/acorntv-login
+   :target: https://acorntvaccount.com/
 
 
 If you're a fan of British mysteries, dramas, and comedies, then Acorn TV is likely already part of your streaming routine. Whether you’re using a smart TV, tablet, or browser, having smooth access to your Acorn TV login account is essential for uninterrupted entertainment. In this article, we'll walk through how to log into your account, manage your subscription, and answer common questions related to your streaming experience.
