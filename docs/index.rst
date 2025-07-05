@@ -7,7 +7,7 @@ How Do I Access My Acorn TV Login Account Easily?
 
 Learn how to log into your Acorn TV account, manage your settings, and fix common login issues with this user-friendly guide.
 
-.. image:: https://expressvpn-login-account.readthedocs.io/en/latest/_images/login.jpg
+.. image:: login.jpg
    :alt: Acorn TV Login Account
    :width: 400px
    :align: center
