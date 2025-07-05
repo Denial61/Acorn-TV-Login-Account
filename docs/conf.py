@@ -1,4 +1,4 @@
-project = 'At&t'
+project = 'Acorn TV'
 author = 'Denial'
 release = '1.0'
  
